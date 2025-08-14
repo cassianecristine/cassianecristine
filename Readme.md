@@ -1,6 +1,6 @@
 # Hey! Tudo bem? Meu nome é Cassiane Cristine ☕
 ## 💻 Sobre Mim
-Sou **estudante do 2º período de Engenharia de Software** 🎓 na [UniCesumar](https://www.unicesumar.edu.br/), apaixonada por **tecnologia** e **inovação**. Estou mergulhando no mundo da **programação** com foco em **back-end** e **desenvolvimento full-stack.**
+Sou **estudante do 3º período de Engenharia de Software** 🎓 na [UniCesumar](https://www.unicesumar.edu.br/), apaixonada por **tecnologia** e **inovação**. Estou mergulhando no mundo da **programação** com foco em **back-end** e **desenvolvimento full-stack.**
 
 >Antes de entrar na tecnologia, trabalhei como maquiadora profissional e em atendimento ao cliente, o que me proporcionou uma rica experiência em **soft skills** e no trabalho com o público. Sempre tive uma paixão por tecnologia e agora estou transformando essa paixão em carreira. Com habilidades em comunicação, resolução de problemas e uma abordagem inovadora, estou entusiasmada para aprender novas tecnologias e aplicá-las para criar soluções impactantes.
 
